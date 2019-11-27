@@ -1,0 +1,2095 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="QFramework.Example.DelayNodeExample" Collapsed="true">
+    <Position X="48" Y="2.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Example\ActionKitExample\NodeActionSystemExample\0.DelayNode\DelayNodeExample.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.Example.EventNodeExample" Collapsed="true">
+    <Position X="60.25" Y="3.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Example\ActionKitExample\NodeActionSystemExample\1.EventNode\EventNodeExample.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.Example.NodeSystemExample" Collapsed="true">
+    <Position X="58.5" Y="6.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Example\ActionKitExample\NodeActionSystemExample\NodeSystemExample.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.Example.BindingsRxExample" Collapsed="true">
+    <Position X="63.75" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAEAAAAAAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Example\LibsExample\BindingsRxExample.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.Example.DOTweenExample" Collapsed="true">
+    <Position X="55" Y="2.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAACAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Example\LibsExample\DOTweenExample\DOTweenExample.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.Example.ExtensionExample" Collapsed="true">
+    <Position X="42.75" Y="4.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAEAAAAAAAAAAAAAACAEAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Example\LibsExample\ExtensionExample\ExtensionExample.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.Example.GameObjectExample" Collapsed="true">
+    <Position X="56.75" Y="4.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Example\LibsExample\ExtensionExample\GameObjectExample.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.Example.TransformExample" Collapsed="true">
+    <Position X="48" Y="10.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Example\LibsExample\ExtensionExample\TransformExample.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.Example.InjectExample" Collapsed="true">
+    <Position X="48" Y="5.5" Width="2.75" />
+    <NestedTypes>
+      <Class Name="QFramework.Example.InjectExample.A" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\QFramework\Example\LibsExample\IOCExample\InjectExample.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Example\LibsExample\IOCExample\InjectExample.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.Example.UIConnectData">
+    <Position X="11.25" Y="10.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Example\LibsExample\NetworkExample\UIConnect.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.Example.UIConnect">
+    <Position X="21.5" Y="20.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAABAAABIAAAAAgIAAABAAAAAAAAAIAAAAEAAA=</HashCode>
+      <FileName>Assets\QFramework\Example\LibsExample\NetworkExample\UIConnect.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.Example.Class2Singleton" Collapsed="true">
+    <Position X="58.5" Y="1.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAAAAAAAAAAAAgAAAAAgAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Example\LibsExample\SingletonExample\0.Singleton\Singleton.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.Example.Singleton" Collapsed="true">
+    <Position X="42.75" Y="9.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Example\LibsExample\SingletonExample\0.Singleton\Singleton.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.Example.Class2MonoSingleton" Collapsed="true">
+    <Position X="53.25" Y="1.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAiAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\QFramework\Example\LibsExample\SingletonExample\1.MonoSingleton\MonoSingletonExample.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.Example.MonoSingletonExample" Collapsed="true">
+    <Position X="49.75" Y="6.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Example\LibsExample\SingletonExample\1.MonoSingleton\MonoSingletonExample.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.Example.Class2SignetonProperty" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="56.75" Y="1.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAiAAAAAAAAAAAAAAAAgAAAAAwAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Example\LibsExample\SingletonExample\2.SingletonProperty\SingletonProperty.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="QFramework.Example.SingletonProperty" Collapsed="true">
+    <Position X="44.5" Y="9.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Example\LibsExample\SingletonExample\2.SingletonProperty\SingletonProperty.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.Example.Class2MonoSingletonProperty" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="55" Y="1.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAiAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAEA=</HashCode>
+      <FileName>Assets\QFramework\Example\LibsExample\SingletonExample\3.MonoSingletonProperty\MonoSingletonProperty.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="QFramework.Example.MonoSingletonProperty" Collapsed="true">
+    <Position X="53.25" Y="6.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Example\LibsExample\SingletonExample\3.MonoSingletonProperty\MonoSingletonProperty.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.Example.ClassUseMonoSingletonPath" Collapsed="true">
+    <Position X="60.25" Y="1.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Example\LibsExample\SingletonExample\4.MonoSingletonPath\MonoSingletonPath.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.Example.MonoSingletonPath" Collapsed="true">
+    <Position X="51.5" Y="6.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Example\LibsExample\SingletonExample\4.MonoSingletonPath\MonoSingletonPath.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.Example.UITestUniRxData">
+    <Position X="6.5" Y="10.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Example\LibsExample\UniRxExample\UITestUniRx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.Example.UITestUniRx">
+    <Position X="17" Y="20.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAABAAABIAAAAAgIAAABAAAABAAAAIACAAEAAA=</HashCode>
+      <FileName>Assets\QFramework\Example\LibsExample\UniRxExample\UITestUniRx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.Example.ImageLoaderExample" Collapsed="true">
+    <Position X="46.25" Y="5.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Example\ResKitExample\ImageLoaderExample.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.Example.AssetBundleResExample" Collapsed="true">
+    <Position X="46.25" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAACAAAAAAAAgAAAgAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\QFramework\Example\ResKitExample\ResKit\LoadAssetBundleResExample\AssetBundleResExample.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.Example.LoadResourcesResExample" Collapsed="true">
+    <Position X="60.25" Y="5.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAACAAAAAAAAgAAAgAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Example\ResKitExample\ResKit\LoadResourcesResExample\LoadResourcesResExample.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.Example.ResKitExample" Collapsed="true">
+    <Position X="44.5" Y="8.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAACAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Example\ResKitExample\ResKit\ResKitExample.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.Example.ResourcesExample" Collapsed="true">
+    <Position X="49.75" Y="8.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Example\ResKitExample\ResKit\ResourcesExample.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.Example.ManagerOfManagersExample">
+    <Position X="6.75" Y="14" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Example\UIKitExample\ManagerOfManagersExample\ManagerOfManagersExample.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.Example.Player">
+    <Position X="40.25" Y="14" Width="2.75" />
+    <NestedTypes>
+      <Class Name="QFramework.Example.Player.GameManager" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\QFramework\Example\UIKitExample\ManagerOfManagersExample\Player.cs</NewMemberFileName>
+        </TypeIdentifier>
+        <Lollipop Position="0.2" />
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAQAIAAAAAAABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Example\UIKitExample\ManagerOfManagersExample\Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.Example.Example" Collapsed="true">
+    <Position X="63.75" Y="3.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\QFramework\Example\UIKitExample\UIExample\Example.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.Example.UIGamePanelData">
+    <Position X="15.75" Y="10.25" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Example\UIKitExample\UIExample\Scripts\UI\UIGamePanel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.Example.UIGamePanel">
+    <Position X="28.25" Y="20.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAABAAAIIAAEAAAIAEAAAAAAAAAAEIAAAAAAEA=</HashCode>
+      <FileName>Assets\QFramework\Example\UIKitExample\UIExample\Scripts\UI\UIGamePanel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.Example.UIMenuPanelData" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="58.5" Y="10.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Example\UIKitExample\UIExample\Scripts\UI\UIMenuPanel.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="QFramework.Example.UIMenuPanel">
+    <Position X="10" Y="20.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAABAAAAIAAEAAAIAAAAAAAAQgAAEIAAAAAAMA=</HashCode>
+      <FileName>Assets\QFramework\Example\UIKitExample\UIExample\Scripts\UI\UIMenuPanel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.Example.UISectionPanelData">
+    <Position X="1.25" Y="10.25" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Example\UIKitExample\UIExample\Scripts\UI\UISectionPanel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.Example.UISectionPanel">
+    <Position X="12.25" Y="20.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAFAAAAIAAEAAAIAEAAECAAAAAAEIAAAAAAUA=</HashCode>
+      <FileName>Assets\QFramework\Example\UIKitExample\UIExample\Scripts\UI\UISectionPanel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.Example.UISettingPanelData">
+    <Position X="8.75" Y="10.25" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Example\UIKitExample\UIExample\Scripts\UI\UISettingPanel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.Example.UISettingPanel">
+    <Position X="19.25" Y="20.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAABAAAAIAAEAAgIAEABAAAAAAAAEIAAIAEAEA=</HashCode>
+      <FileName>Assets\QFramework\Example\UIKitExample\UIExample\Scripts\UI\UISettingPanel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.Example.UIEventID" Collapsed="true">
+    <Position X="53.25" Y="10.5" Width="2.75" />
+    <NestedTypes>
+      <Enum Name="QFramework.Example.UIEventID.MenuPanel" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\QFramework\Example\UIKitExample\UIExample\Scripts\Util\UIEventID.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Example\UIKitExample\UIExample\Scripts\Util\UIEventID.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.Example.AttributeExample" Collapsed="true">
+    <Position X="51.5" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AYAAAAAAIBAACAAgAAAAAAAAAIBACgAQAAACAAEAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\3.EditorToolKit\Example\Attribute\AttributeExample.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.Example.AutoReferencerExample" Collapsed="true">
+    <Position X="62" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAACAgAAIAAAACAIAAgAACAAAAAEACAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\3.EditorToolKit\Example\UnityEditorRushTools\AutoReferencerExample.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.Example.CalledByEditorExample" Collapsed="true">
+    <Position X="46.25" Y="1.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\3.EditorToolKit\Example\UnityEditorRushTools\CalledByEditorExample.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.Example.EditorToolkitTips" Collapsed="true">
+    <Position X="55" Y="3.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\3.EditorToolKit\Example\UnityEditorRushTools\EditorToolkitTips.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.SequenceNodeExample" Collapsed="true">
+    <Position X="62" Y="8.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAQBAAAAACAAAQAAAAAAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Example\ActionKitExample\NodeActionSystemExample\2.SequenceNode\SequenceNodeExample.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.CustomActionExample" Collapsed="true">
+    <Position X="42.75" Y="2.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Example\ActionKitExample\NodeActionSystemExample\3.CustomAction\CustomActionExample.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.DotweenActionExample" Collapsed="true">
+    <Position X="51.5" Y="2.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Example\ActionKitExample\NodeActionSystemExample\4.DotweenAction\DotweenActionExample.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.WWWActionExample" Collapsed="true">
+    <Position X="58.5" Y="11.5" Width="2.75" />
+    <NestedTypes>
+      <Class Name="QFramework.WWWActionExample.WWWGetSikieduAction" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\QFramework\Example\ActionKitExample\NodeActionSystemExample\5.WWWAction\WWWActionExample.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Example\ActionKitExample\NodeActionSystemExample\5.WWWAction\WWWActionExample.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.NodeExample" Collapsed="true">
+    <Position X="56.75" Y="6.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Example\ActionKitExample\NodeActionSystemExample\NodeExample.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.TestNodeSystemGC" Collapsed="true">
+    <Position X="51.5" Y="9.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Example\ActionKitExample\NodeActionSystemExample\TestNodeSystemGC\TestNodeSystemGC.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.JsonPathProtobuf" Collapsed="true">
+    <Position X="55" Y="5.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Example\LibsExample\JsonPathProtobuf.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.ProtoBufTest" Collapsed="true">
+    <Position X="46.25" Y="7.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAAAAAAABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Example\LibsExample\JsonPathProtobuf.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.JsonTest" Collapsed="true">
+    <Position X="56.75" Y="5.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAEAAAAQAAAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Example\LibsExample\JsonPathProtobuf.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.MobileServer" Collapsed="true">
+    <Position X="46.25" Y="6.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAQBAABAACAAAgAAAAAAAAAAAAAAAQAAQACAAAAEAEA=</HashCode>
+      <FileName>Assets\QFramework\Example\LibsExample\NetworkExample\MobileServer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.PCClient" Collapsed="true">
+    <Position X="63.75" Y="6.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAQBAAIEAgAAAIAAAAAAAAABAAAAAAAAQAABAQAEAAA=</HashCode>
+      <FileName>Assets\QFramework\Example\LibsExample\NetworkExample\PCClient.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.SocketMsg">
+    <Position X="11.25" Y="4.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAgAAAAAAAAAAgAABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Example\LibsExample\NetworkExample\PCConnectMobileManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.PCConnectMobileManager">
+    <Position X="32.75" Y="18.25" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAgAAAAAAAAAIIAAAAAAEAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Example\LibsExample\NetworkExample\PCConnectMobileManager.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="QFramework.UIMsgData">
+    <Position X="13.5" Y="10.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Example\LibsExample\NetworkExample\UIMsg.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.UIMsg">
+    <Position X="23.75" Y="20.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAABAAABIAAAAAgIAAABAAAAAAAAAIACAAEAAA=</HashCode>
+      <FileName>Assets\QFramework\Example\LibsExample\NetworkExample\UIMsg.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.CallPool" Collapsed="true">
+    <Position X="48" Y="1.5" Width="2.75" />
+    <NestedTypes>
+      <Class Name="QFramework.CallPool.Fish" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\QFramework\Example\ResKitExample\Pool\CallPool.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="QFramework.CallPool.Bullet" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\QFramework\Example\ResKitExample\Pool\CallPool.cs</NewMemberFileName>
+        </TypeIdentifier>
+        <Lollipop Position="0.2" />
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Example\ResKitExample\Pool\CallPool.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.TestSpriteAtlas" Collapsed="true">
+    <Position X="53.25" Y="9.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Example\ResKitExample\SpriteAtlas\TestSpriteAtlas.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.EventGet" Collapsed="true">
+    <Position X="58.5" Y="3.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>Assets\QFramework\Example\UIKitExample\EventExample\EventGet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.EventTest" Collapsed="true">
+    <Position X="62" Y="3.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Example\UIKitExample\EventExample\EventTest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.QMsgCenter" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="51.5" Y="7.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAiAAAAAAAAAAAAAAIAAAAAAAQAAAAAAEAEA=</HashCode>
+      <FileName>Assets\QFramework\Example\UIKitExample\ManagerOfManagersExample\QMsgCenter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="QFramework.AsyncConnect">
+    <Position X="12.75" Y="29.75" Width="3" />
+    <TypeIdentifier>
+      <HashCode>gAAAACAAACAAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\0.Core\Plugins\FlexiSocket\AsyncConnect.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.AsyncDisconnect">
+    <Position X="15.25" Y="29.75" Width="3" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAACAAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\0.Core\Plugins\FlexiSocket\AsyncDisconnect.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.AsyncIOOperation">
+    <Position X="18.75" Y="29.75" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAAABAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\0.Core\Plugins\FlexiSocket\AsyncIOOperation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.AsyncReceive">
+    <Position X="17.75" Y="32.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAACAAABIAAAAAAAAAAAAAABAAAAAAAAAAAQA=</HashCode>
+      <FileName>Assets\QFramework\Framework\0.Core\Plugins\FlexiSocket\AsyncReceive.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.AsyncSend">
+    <Position X="20" Y="32.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAgACAAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\0.Core\Plugins\FlexiSocket\AsyncSend.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.AsyncSocketOperation">
+    <Position X="16.25" Y="25.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAACAAADAAAAEAAAAAgEAAABAAgAFAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\0.Core\Plugins\FlexiSocket\AsyncSocketOperation.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="QFramework.FlexiMemberIgnoreAttribute" Collapsed="true">
+    <Position X="46.25" Y="4.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\0.Core\Plugins\FlexiSocket\FlexiMemberIgnoreAttribute.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.FlexiMemberIncludeAttribute" Collapsed="true">
+    <Position X="48" Y="4.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\0.Core\Plugins\FlexiSocket\FlexiMemberIncludeAttribute.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.FlexiMemberOrderAttribute" Collapsed="true">
+    <Position X="49.75" Y="4.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\0.Core\Plugins\FlexiSocket\FlexiMemberOrderAttribute.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.FlexiSerializableAttribute" Collapsed="true">
+    <Position X="51.5" Y="4.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\0.Core\Plugins\FlexiSocket\FlexiSerializableAttribute.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.FlexiSerializer" Collapsed="true">
+    <Position X="53.25" Y="4.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAABAAAAAAAAAAAABACBAAAAIAAAAQAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\0.Core\Plugins\FlexiSocket\FlexiSerializer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.MatchReader" Collapsed="true">
+    <Position X="63.75" Y="5.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAAgAAAAAABgAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\0.Core\Plugins\FlexiSocket\FlexiSerializer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.FlexiSocket" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="55" Y="4.5" Width="2.75" />
+    <NestedTypes>
+      <Class Name="QFramework.FlexiSocket.StateObject" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\QFramework\Framework\0.Core\Plugins\FlexiSocket\FlexiSocket.cs</NewMemberFileName>
+        </TypeIdentifier>
+        <Lollipop Position="0.2" />
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>GAwIAAMBATAAwEBRAkgCQgiJCAAAAMIjBAAIYwigABA=</HashCode>
+      <FileName>Assets\QFramework\Framework\0.Core\Plugins\FlexiSocket\FlexiSocket.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="QFramework.Protocols" Collapsed="true">
+    <Position X="48" Y="7.5" Width="2.75" />
+    <NestedTypes>
+      <Class Name="QFramework.Protocols.DefaultProtocol" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\QFramework\Framework\0.Core\Plugins\FlexiSocket\IProtocol.cs</NewMemberFileName>
+        </TypeIdentifier>
+        <Lollipop Position="0.2" />
+      </Class>
+      <Class Name="QFramework.Protocols.BodyLengthPrefixProtocol" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\QFramework\Framework\0.Core\Plugins\FlexiSocket\IProtocol.cs</NewMemberFileName>
+        </TypeIdentifier>
+        <Lollipop Position="0.2" />
+      </Class>
+      <Class Name="QFramework.Protocols.StringTerminatedProtocol" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\QFramework\Framework\0.Core\Plugins\FlexiSocket\IProtocol.cs</NewMemberFileName>
+        </TypeIdentifier>
+        <Lollipop Position="0.2" />
+      </Class>
+      <Class Name="QFramework.Protocols.FixedLengthProtocol" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\QFramework\Framework\0.Core\Plugins\FlexiSocket\IProtocol.cs</NewMemberFileName>
+        </TypeIdentifier>
+        <Lollipop Position="0.2" />
+      </Class>
+      <Class Name="QFramework.Protocols.TotalLengthPrefixProtocol" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\QFramework\Framework\0.Core\Plugins\FlexiSocket\IProtocol.cs</NewMemberFileName>
+        </TypeIdentifier>
+        <Lollipop Position="0.2" />
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACAEAAIAAAAAQAAAAAABAEAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\0.Core\Plugins\FlexiSocket\IProtocol.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.Platform" Collapsed="true">
+    <Position X="42.75" Y="7.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAABAAAAAAAAAAAAAAAAAAAAEAAQAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\0.Core\Tools\Platform.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.AssetData" Collapsed="true">
+    <Position X="48" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAQAAAEAgAQAAAAAAAAAAAAAADAAAAAEA=</HashCode>
+      <FileName>Assets\QFramework\Framework\1.ResKit\1.ResSystem\DataTable\AssetData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.AssetDataGroup" Collapsed="true">
+    <Position X="49.75" Y="0.5" Width="2.75" />
+    <NestedTypes>
+      <Class Name="QFramework.AssetDataGroup.ABUnit" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\QFramework\Framework\1.ResKit\1.ResSystem\DataTable\AssetDataGroup.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="QFramework.AssetDataGroup.SerializeData" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\QFramework\Framework\1.ResKit\1.ResSystem\DataTable\AssetDataGroup.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>IAAAEFIAEAAABAAAAAAGAACAAAAAAAAAiAEACCAACAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\1.ResKit\1.ResSystem\DataTable\AssetDataGroup.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.EditorRuntimeAssetDataCollector" Collapsed="true">
+    <Position X="53.25" Y="3.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>QBABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\1.ResKit\1.ResSystem\DataTable\EditorRuntimeAssetDataCollector.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.ResDatas" Collapsed="true">
+    <Position X="60.25" Y="7.5" Width="2.75" />
+    <NestedTypes>
+      <Class Name="QFramework.ResDatas.SerializeData" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\QFramework\Framework\1.ResKit\1.ResSystem\DataTable\ResDatas.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAMBQIAAABABAIAAAAAAAQBAgAEAACAEAABAAEAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\1.ResKit\1.ResSystem\DataTable\ResDatas.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.DisposableObject">
+    <Position X="23.5" Y="24.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAQAAAAAAAAAAAAAAEAAAAAAAAAABAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\1.ResKit\1.ResSystem\DisposableObject.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="QFramework.Res">
+    <Position X="5.25" Y="25.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>CBQggBEgAEAACQAMUEgACgADAAIABAAAAIAhBADDAFE=</HashCode>
+      <FileName>Assets\QFramework\Framework\1.ResKit\1.ResSystem\Res\AbstractRes.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="QFramework.AssetBundleRes">
+    <Position X="5.25" Y="35" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>ABAAABAkAAIAAQAMAAAACAABgAgAAAAAAIAAQABCAFA=</HashCode>
+      <FileName>Assets\QFramework\Framework\1.ResKit\1.ResSystem\Res\AssetBundleRes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.AssetRes">
+    <Position X="7.5" Y="35" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>QBAAABAkAAIAAQAMAAAAEAAhAAAAAAAAAAAAAABCABA=</HashCode>
+      <FileName>Assets\QFramework\Framework\1.ResKit\1.ResSystem\Res\AssetRes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.ResourcesRes">
+    <Position X="9.75" Y="35" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAkAAAAAQAMAAAIAAABAAAAAAAAAAAAAABCABA=</HashCode>
+      <FileName>Assets\QFramework\Framework\1.ResKit\1.ResSystem\Res\InternalRes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.ResType" Collapsed="true">
+    <Position X="53.25" Y="8.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAAAAJAAAgAAAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\1.ResKit\1.ResSystem\Res\IRes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.LocalImageResUtil" Collapsed="true">
+    <Position X="62" Y="5.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\1.ResKit\1.ResSystem\Res\LocalImageRes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.LocalImageRes">
+    <Position X="0.75" Y="35" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAgAIBBkAAAEAABMAAACSAABBAAAAAIAiJAAAIBCAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\1.ResKit\1.ResSystem\Res\LocalImageRes.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="QFramework.NetImageResUtil" Collapsed="true">
+    <Position X="55" Y="6.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\1.ResKit\1.ResSystem\Res\NetImageRes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.NetImageRes">
+    <Position X="3" Y="35" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAgAIBBkAAAEABBMAAACSAABBAAAAAIAiIAAAIBCAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\1.ResKit\1.ResSystem\Res\NetImageRes.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="QFramework.SceneRes">
+    <Position X="7.5" Y="40.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAkAAAAAQAIAAAAAAAAAAAAAAAAAAAAAAACABA=</HashCode>
+      <FileName>Assets\QFramework\Framework\1.ResKit\1.ResSystem\Res\SceneRes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.HttpDownloaderMgr" Collapsed="true">
+    <Position X="42.75" Y="5.5" Width="2.75" />
+    <NestedTypes>
+      <Enum Name="QFramework.HttpDownloaderMgr.DownloadEvent" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\QFramework\Framework\1.ResKit\1.ResSystem\ResDownloader\HttpDownloaderMgr.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>CgQFIAwZAAABAJAgAACgAgAD3ARACAgACAgEAACBBFA=</HashCode>
+      <FileName>Assets\QFramework\Framework\1.ResKit\1.ResSystem\ResDownloader\HttpDownloaderMgr.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.ResDownloader" Collapsed="true">
+    <Position X="62" Y="7.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAADEAAAAAABAAgAAAAAAAACCAEAAAAEA=</HashCode>
+      <FileName>Assets\QFramework\Framework\1.ResKit\1.ResSystem\ResDownloader\ResDownloader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.ResFactory" Collapsed="true">
+    <Position X="63.75" Y="7.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\1.ResKit\1.ResSystem\ResFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.ResKit" Collapsed="true">
+    <Position X="42.75" Y="8.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\1.ResKit\1.ResSystem\ResKit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.ResKitUtil" Collapsed="true">
+    <Position X="46.25" Y="8.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAEAAAAAAAAAABAAAAAAAAAAAAAAAAiEAAAAEA=</HashCode>
+      <FileName>Assets\QFramework\Framework\1.ResKit\1.ResSystem\ResKitUtil.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.DefaultLoaderStrategy" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="44.5" Y="2.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAAAAAAAAADAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\1.ResKit\1.ResSystem\ResLoader\DefaultLoaderStrategy.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="QFramework.AbstractResLoaderStrategy" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="42.75" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAAAAAAAAADAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\1.ResKit\1.ResSystem\ResLoader\IResLoaderStrategy.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="QFramework.ResSearchRule" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="51.5" Y="8.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAEAAAAAAAEQAgAAgAACAAAABAAAAAAAAACAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\1.ResKit\1.ResSystem\ResLoader\ResLoader.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="QFramework.ResLoader">
+    <Position X="23.5" Y="27.5" Width="2.75" />
+    <NestedTypes>
+      <Class Name="QFramework.ResLoader.CallBackWrap" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\QFramework\Framework\1.ResKit\1.ResSystem\ResLoader\ResLoader.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>CQAAQAAkADAAABAYAAJKggEFAAAAgEABAKAYAACiACA=</HashCode>
+      <FileName>Assets\QFramework\Framework\1.ResKit\1.ResSystem\ResLoader\ResLoader.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="QFramework.ResMgr" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="48" Y="8.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>QkQAAAAACAAAAAAiAAAAAAQDAAAAAIgQAACKAAAIAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\1.ResKit\1.ResSystem\ResMgr.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="QFramework.AudioMsgWithBool">
+    <Position X="13.5" Y="4.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\1.ResKit\2.Audio\AudioManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.AduioMsgPlayVoiceLoop">
+    <Position X="16" Y="4.5" Width="4.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAMAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\1.ResKit\2.Audio\AudioManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.AudioMsgWithNode">
+    <Position X="19.75" Y="4.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\1.ResKit\2.Audio\AudioManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.AudioManager">
+    <Position X="35.75" Y="18.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>ABAFMLKiDiQAAAEACEZIIA+AAQIAABSAaAhiMAgAQIQ=</HashCode>
+      <FileName>Assets\QFramework\Framework\1.ResKit\2.Audio\AudioManager.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="QFramework.AudioPlayer" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="53.25" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAEAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAACAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\1.ResKit\2.Audio\AudioPlayer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="QFramework.AudioUnit" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="58.5" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>BCggQBAEQAkAAAAAQQgAABAQBBAJAACQYogoABiCAgA=</HashCode>
+      <FileName>Assets\QFramework\Framework\1.ResKit\2.Audio\AudioUnit.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="QFramework.AudioSoundNode" Collapsed="true">
+    <Position X="55" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>ACIAAAABACAAAAAAAAAAAAAAAgAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\1.ResKit\2.Audio\CoroutineCommand\AudioSoundNode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.AudioVoiceNode" Collapsed="true">
+    <Position X="60.25" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAQAAAgAAAAAMCAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\1.ResKit\2.Audio\CoroutineCommand\AudioVoiceNode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.AddRetainAudioMsg">
+    <Position X="22.25" Y="4.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\1.ResKit\2.Audio\Msg\AddRetainAudioMsg.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.AudioMusicMsg">
+    <Position X="24.75" Y="4.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAIAAAAAAAAIABgAAAAAAAAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\1.ResKit\2.Audio\Msg\AudioMusicMsg.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.AudioStopMusicMsg">
+    <Position X="1.5" Y="4.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\1.ResKit\2.Audio\Msg\AudioMusicMsg.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.AudioSoundMsg">
+    <Position X="4" Y="4.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAAAIAAAAAAAAAAAAAAAIAAAAgAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\1.ResKit\2.Audio\Msg\AudioSoundMsg.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.AudioVoiceMsg">
+    <Position X="6.25" Y="4.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAEAAAAAgAAAAkAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\1.ResKit\2.Audio\Msg\AudioVoiceMsg.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.RemoveRetainAudioMsg">
+    <Position X="8.5" Y="4.5" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\1.ResKit\2.Audio\Msg\RemoteRetainAudioMsg.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.QUICameraUtil" Collapsed="true">
+    <Position X="55" Y="7.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>CIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIEAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\2.UIKit\1.UI\Extension\QUICameraUtil.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.UIPointerDownEventListener" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="44.5" Y="11.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAACAAAAABAAAAAAAAAAAAAAAABQAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\2.UIKit\1.UI\Extension\UIPointerDownEventListener.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="QFramework.UIPointerUpEventListener" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="46.25" Y="11.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAABAAQAIAAAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\2.UIKit\1.UI\Extension\UIPointerUpEventListener.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="QFramework.UIRectTransformExtension" Collapsed="true">
+    <Position X="48" Y="11.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>oAAABAAABAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\2.UIKit\1.UI\Extension\UIRectTransform.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.UISpriteAnimation" Collapsed="true">
+    <Position X="55" Y="11.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAQhAAAICCABAAAAAAAAAAARABQAAAACsAgAAAwAAEI=</HashCode>
+      <FileName>Assets\QFramework\Framework\2.UIKit\1.UI\Extension\UISpriteAnimation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.UIComponent">
+    <Position X="2.25" Y="16.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\2.UIKit\1.UI\Script\Component\UIComponent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.UIElement">
+    <Position X="3.5" Y="14" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAAAAAAAAQAAgAABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\2.UIKit\1.UI\Script\Component\UIElement.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="QFramework.UIElementList">
+    <Position X="4.5" Y="16.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\2.UIKit\1.UI\Script\Component\UIElementList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.UIScrollPageChangeEvent" Collapsed="true">
+    <Position X="51.5" Y="11.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\2.UIKit\1.UI\Script\Component\UIScrollPage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.UIScrollPage" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="49.75" Y="11.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAQBCAAAICAAAgBAAAAAMAgAgEAAACIBAAAACAAAAEA=</HashCode>
+      <FileName>Assets\QFramework\Framework\2.UIKit\1.UI\Script\Component\UIScrollPage.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="QFramework.UIScrollPageMark" Collapsed="true">
+    <Position X="53.25" Y="11.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>BBMAAAAAAAAAAAAgAAEAAACAAACAEAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\QFramework\Framework\2.UIKit\1.UI\Script\Component\UIScrollPageMark.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.UITransitionExtension" Collapsed="true">
+    <Position X="56.75" Y="11.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAQAAAAAASABAEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\2.UIKit\1.UI\Script\Component\UITransition.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.DefaultPanelLoader" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="46.25" Y="2.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AIAAAACAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\2.UIKit\1.UI\Script\Res\DefaultPanelLoader.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="QFramework.UIManager">
+    <Position X="30.5" Y="18.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>mQCAEIAAALgAAAFACAANIJEBAgBAAAAGQIAACoQACAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\2.UIKit\1.UI\Script\System\UIManager.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="QFramework.UIMgr" Collapsed="true">
+    <Position X="60.25" Y="10.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAACAQAAAABAAAAAAAAAAAAAAAAEAAAAAIQAAAAACAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\2.UIKit\1.UI\Script\System\UIManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.QUIManager">
+    <Position X="30.5" Y="27.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\2.UIKit\1.UI\Script\System\UIManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.UIMark" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="56.75" Y="10.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAIAAAAAAAAAAAAQAAgAAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\2.UIKit\1.UI\Script\System\UIMark.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="QFramework.UIPanelData">
+    <Position X="8.5" Y="8.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\2.UIKit\1.UI\Script\System\UIPanel.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="QFramework.SubPanelInfo" Collapsed="true">
+    <Position X="48" Y="9.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\2.UIKit\1.UI\Script\System\UIPanel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.UIPanel">
+    <Position X="19.25" Y="14" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AYABgAEBBAAAIIEAAEAAAAwAADCEBAQAAAICAAAAAQA=</HashCode>
+      <FileName>Assets\QFramework\Framework\2.UIKit\1.UI\Script\System\UIPanel.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="QFramework.QUIBehaviour">
+    <Position X="26" Y="20.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\2.UIKit\1.UI\Script\System\UIPanel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.UIPanelInfo" Collapsed="true">
+    <Position X="62" Y="10.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAAAAAAAAAgAAAAAAABAAAAAAAAgAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\2.UIKit\1.UI\Script\System\UIStack.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.FadeInOut">
+    <Position X="13.5" Y="15.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAEAAAAAASAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\2.UIKit\1.UI\Script\Transition\FadeInOut.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.FadeOut" Collapsed="true">
+    <Position X="44.5" Y="4.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\2.UIKit\1.UI\Script\Transition\FadeOut.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.UITransition">
+    <Position X="13.5" Y="12.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAAASAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\2.UIKit\1.UI\Script\Transition\UITransition.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="QFramework.UITransitionPanelData">
+    <Position X="3.75" Y="10.25" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\2.UIKit\1.UI\Script\UI\UITransitionPanel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.UITransitionPanel">
+    <Position X="14.5" Y="20.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAABAAAAIAAEAAgIAAAAAAAABAAAEIAAAAAAEA=</HashCode>
+      <FileName>Assets\QFramework\Framework\2.UIKit\1.UI\Script\UI\UITransitionPanel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.UIPanelTesterInfo" Collapsed="true">
+    <Position X="42.75" Y="11.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\2.UIKit\1.UI\Script\UIPanelTester.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.UIPanelTester" Collapsed="true">
+    <Position X="63.75" Y="10.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQKAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\QFramework\Framework\2.UIKit\1.UI\Script\UIPanelTester.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.CollisionEvent&lt;T&gt;" Collapsed="true">
+    <Position X="62" Y="1.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\2.UIKit\1.UI\Script\Util\CollisionTriggerListener.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.CollisionTriggerListener" Collapsed="true">
+    <Position X="63.75" Y="1.5" Width="2.75" />
+    <NestedTypes>
+      <Enum Name="QFramework.CollisionTriggerListener.EventName" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\QFramework\Framework\2.UIKit\1.UI\Script\Util\CollisionTriggerListener.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>CAwBCACAAAj4AJBSBAEAAAIgAEETBIEMYgAgEDAAEAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\2.UIKit\1.UI\Script\Util\CollisionTriggerListener.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.UIEffectHelper" Collapsed="true">
+    <Position X="51.5" Y="10.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\2.UIKit\1.UI\Script\Util\UIEffectHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.UIEventListener" Collapsed="true">
+    <Position X="55" Y="10.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>BAChAAAAAgAIAEBQCABAECAAIAAgAiABAAABAQAAoAU=</HashCode>
+      <FileName>Assets\QFramework\Framework\2.UIKit\1.UI\Script\Util\UIEventListener.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.Framework">
+    <Position X="38" Y="18.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAQBABAAAiAAAACAAAAIoAAAAAAAAAAAQQCAAAAAgAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\2.UIKit\2.ManagerOfManagers\Framework.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="QFramework.QMgrBehaviour">
+    <Position X="34.25" Y="14" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAQAEAIIAAAAAAABAAAACACAAAEBAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\2.UIKit\2.ManagerOfManagers\QMgrBehaviour.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="QFramework.QMonoBehaviour">
+    <Position X="21.25" Y="8.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAEBAAAAAAAABAAAEkAAYAAABQAEBAAAACIAAAAUBAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\2.UIKit\2.ManagerOfManagers\QMonoBehaviour.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.QMsg">
+    <Position X="13.25" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>ACgAAAAEAAAAAAAAAAAIAgAgAAAAAAABAAAAAAACAAg=</HashCode>
+      <FileName>Assets\QFramework\Framework\2.UIKit\2.ManagerOfManagers\QMsg.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="QFramework.QMsgSpan" Collapsed="true">
+    <Position X="53.25" Y="7.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\2.UIKit\2.ManagerOfManagers\QMsgSpan.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.QMgrID" Collapsed="true">
+    <Position X="49.75" Y="7.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAJAAAAAAAAAAAAAAEAAAgAAIgAAAAAAABAAAQAEAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\2.UIKit\2.ManagerOfManagers\QMsgSpan.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.CircleGuideCtrl">
+    <Position X="0.5" Y="23.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAQAABGAAAAAAAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\2.UIKit\3.Guide\Scripts\CircleGuideCtrl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.GuideCtrl">
+    <Position X="1.75" Y="18.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AQYAAAEAAAAQAQIAAkAAACAgAAAAIAAAgACACAAAAEA=</HashCode>
+      <FileName>Assets\QFramework\Framework\2.UIKit\3.Guide\Scripts\GuideCtrl.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="QFramework.RectGuideCtrl">
+    <Position X="2.75" Y="23.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAIEAACAAAAgAUAABEAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\2.UIKit\3.Guide\Scripts\RectGuideCtrl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.DontDestroyOnLoad" Collapsed="true">
+    <Position X="49.75" Y="2.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\QFramework\Framework\4.ScriptCollection\DontDestroyOnLoad.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.DragMe" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="48" Y="3.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AACABAAAACCIAAAAAABAAAAgAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\4.ScriptCollection\DragMe.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="QFramework.Empty4Raycast" Collapsed="true">
+    <Position X="56.75" Y="3.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\4.ScriptCollection\Empty4Raycast.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.Hide" Collapsed="true">
+    <Position X="63.75" Y="4.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\QFramework\Framework\4.ScriptCollection\Hide.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.MathHelper" Collapsed="true">
+    <Position X="44.5" Y="6.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\4.ScriptCollection\Math.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.ParticleScaler" Collapsed="true">
+    <Position X="60.25" Y="6.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAwAAAABCAABAAAAACAEAAAAAAAAAAAAAAAEAAAAAEA=</HashCode>
+      <FileName>Assets\QFramework\Framework\4.ScriptCollection\ParticleScaler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.PostFXBehaviour" Collapsed="true">
+    <Position X="44.5" Y="7.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>QEAAAAAAAAAAAAIAAAAAAAAAAAAAAAEAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\QFramework\Framework\5.ShaderLib\Scripts\PostFXBehaviour.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.TimeExtend.TimerExample" Collapsed="true">
+    <Position X="44.5" Y="10.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAEBAAAAAIAACAAAAAAIA=</HashCode>
+      <FileName>Assets\QFramework\Example\ActionKitExample\NodeActionSystemExample\6.TimerDemo\TimerExample.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CallUI" Collapsed="true">
+    <Position X="49.75" Y="1.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Example\LibsExample\NetworkExample\CallUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AudioTest" Collapsed="true">
+    <Position X="56.75" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Example\ResKitExample\Audio\AudioTest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GetTestFindReferencer" Collapsed="true">
+    <Position X="62" Y="4.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\3.EditorToolKit\Example\FinReferencer\GetTestFindReferencer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TestFindReferencer" Collapsed="true">
+    <Position X="49.75" Y="9.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\3.EditorToolKit\Example\FinReferencer\TestFindReferencer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LFramework.TestUniRx" Collapsed="true">
+    <Position X="55" Y="9.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAMACAAAAABAQAACAQAEAAAgAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Example\LibsExample\UniRxExample\TestUniRx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.Course.RefCounterExample" Collapsed="true">
+    <Position X="58.5" Y="7.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Example\ResKitExample\RefCounter\RefCounterExample.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.Course.Light" Collapsed="true">
+    <Position X="58.5" Y="5.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>Assets\QFramework\Example\ResKitExample\RefCounter\RefCounterExample.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QFramework.Course.Room" Collapsed="true">
+    <Position X="55" Y="8.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAIAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAIA=</HashCode>
+      <FileName>Assets\QFramework\Example\ResKitExample\RefCounter\RefCounterExample.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BindingsRx.Bindings.AnimatorExtensions" Collapsed="true">
+    <Position X="44.5" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AgQAAAAAAAAAAAgAACAAgAAQAAAAEAAAAQQIiMAAAEA=</HashCode>
+      <FileName>Assets\QFramework\Framework\0.Core\Plugins\BindingsRx\Bindings\AnimatorExtensions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BindingsRx.Bindings.CanvasElementExtensions" Collapsed="true">
+    <Position X="51.5" Y="1.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAQAAAAAgAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\0.Core\Plugins\BindingsRx\Bindings\CanvasElementExtensions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BindingsRx.Bindings.DropdownExtensions" Collapsed="true">
+    <Position X="49.75" Y="3.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\0.Core\Plugins\BindingsRx\Bindings\DropdownExtensions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BindingsRx.Bindings.GameObjectExtensions" Collapsed="true">
+    <Position X="58.5" Y="4.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAQAAAAAAQAAAABAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\0.Core\Plugins\BindingsRx\Bindings\GameObjectExtensions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BindingsRx.Bindings.GenericBindings" Collapsed="true">
+    <Position X="60.25" Y="4.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\0.Core\Plugins\BindingsRx\Bindings\GenericBindings.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BindingsRx.Bindings.ImageExtensions" Collapsed="true">
+    <Position X="44.5" Y="5.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\0.Core\Plugins\BindingsRx\Bindings\ImageExtensions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BindingsRx.Bindings.InputFieldExtensions" Collapsed="true">
+    <Position X="49.75" Y="5.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEAQAAAAAAAAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\0.Core\Plugins\BindingsRx\Bindings\InputFieldExtensions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BindingsRx.Bindings.MaterialExtensions" Collapsed="true">
+    <Position X="42.75" Y="6.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAQAAAAAAAAAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\0.Core\Plugins\BindingsRx\Bindings\MaterialExtensions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BindingsRx.Bindings.MonoBehaviourExtensions" Collapsed="true">
+    <Position X="48" Y="6.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\0.Core\Plugins\BindingsRx\Bindings\MonoBehaviourExtensions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BindingsRx.Bindings.ParticleSystemExtensions" Collapsed="true">
+    <Position X="62" Y="6.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\0.Core\Plugins\BindingsRx\Bindings\ParticleSystemExtensions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BindingsRx.Bindings.RectTransformExtensions" Collapsed="true">
+    <Position X="56.75" Y="7.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAQAAAAAgAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\0.Core\Plugins\BindingsRx\Bindings\RectTransformExtensions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BindingsRx.Bindings.ScrollBarExtensions" Collapsed="true">
+    <Position X="58.5" Y="8.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAQAAAAAAAABAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\0.Core\Plugins\BindingsRx\Bindings\ScrollBarExtensions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BindingsRx.Bindings.ScrollRectExtensions" Collapsed="true">
+    <Position X="60.25" Y="8.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAAAAAAAAAQgAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\0.Core\Plugins\BindingsRx\Bindings\ScrollRectExtensions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BindingsRx.Bindings.SliderExtensions" Collapsed="true">
+    <Position X="46.25" Y="9.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>IAQAEAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\0.Core\Plugins\BindingsRx\Bindings\SliderExtensions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BindingsRx.Bindings.TextExtensions" Collapsed="true">
+    <Position X="56.75" Y="9.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAEAQAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\0.Core\Plugins\BindingsRx\Bindings\TextExtensions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BindingsRx.Bindings.ToggleExtensions" Collapsed="true">
+    <Position X="46.25" Y="10.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\0.Core\Plugins\BindingsRx\Bindings\ToggleExtensions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BindingsRx.Bindings.TransformExtensions" Collapsed="true">
+    <Position X="49.75" Y="10.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAQAAAAAgAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\0.Core\Plugins\BindingsRx\Bindings\TransformExtensions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BindingsRx.Converters.DoubleToFloatConverter" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="46.25" Y="3.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\0.Core\Plugins\BindingsRx\Converters\DoubleToFloatConverter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BindingsRx.Converters.TextToDateConverter" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="58.5" Y="9.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\0.Core\Plugins\BindingsRx\Converters\TextToDateConverter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BindingsRx.Converters.TextToDoubleConverter" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="60.25" Y="9.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\0.Core\Plugins\BindingsRx\Converters\TextToDoubleConverter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BindingsRx.Converters.TextToFloatConverter" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="62" Y="9.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\0.Core\Plugins\BindingsRx\Converters\TextToFloatConverter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BindingsRx.Converters.TextToIntConverter" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="63.75" Y="9.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\0.Core\Plugins\BindingsRx\Converters\TextToIntConverter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BindingsRx.Converters.TextToTimeSpanConverter" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="42.75" Y="10.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\0.Core\Plugins\BindingsRx\Converters\TextToTimeSpanConverter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BindingsRx.Exceptions.SetterNotProvidedException" Collapsed="true">
+    <Position X="63.75" Y="8.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\0.Core\Plugins\BindingsRx\Exceptions\SetterNotProvidedException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BindingsRx.Extensions.IObservableExtensions" Collapsed="true">
+    <Position X="51.5" Y="5.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABgAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\0.Core\Plugins\BindingsRx\Extensions\IObservableExtensions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BindingsRx.Extensions.IReactivePropertyExtensions" Collapsed="true">
+    <Position X="53.25" Y="5.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\0.Core\Plugins\BindingsRx\Extensions\IReactivePropertyExtensions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BindingsRx.Filters.DynamicSampleFilter&lt;T&gt;" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="51.5" Y="3.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>BBAAAAAAACAAAAAAAAAAAAAIAABAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\0.Core\Plugins\BindingsRx\Filters\DynamicSampleFilter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BindingsRx.Filters.SampleFilter&lt;T&gt;" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="56.75" Y="8.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAAAAAAAIAABAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\0.Core\Plugins\BindingsRx\Filters\SampleFilter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="DG.Tweening.DOTweenModuleAudio" Collapsed="true">
+    <Position X="56.75" Y="2.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAAAAIAAEAEgAAAAAAAAAACCBIAEghQ=</HashCode>
+      <FileName>Assets\QFramework\Framework\0.Core\Plugins\Demigiant\DOTween\Modules\DOTweenModuleAudio.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DG.Tweening.DOTweenModulePhysics" Collapsed="true">
+    <Position X="58.5" Y="2.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAGBBAAAQAACAAAAEAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\0.Core\Plugins\Demigiant\DOTween\Modules\DOTweenModulePhysics.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DG.Tweening.DOTweenModulePhysics2D" Collapsed="true">
+    <Position X="60.25" Y="2.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAGBAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\0.Core\Plugins\Demigiant\DOTween\Modules\DOTweenModulePhysics2D.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DG.Tweening.DOTweenModuleSprite" Collapsed="true">
+    <Position X="62" Y="2.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>QAAQAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\0.Core\Plugins\Demigiant\DOTween\Modules\DOTweenModuleSprite.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DG.Tweening.DOTweenModuleUI" Collapsed="true">
+    <Position X="63.75" Y="2.5" Width="2.75" />
+    <NestedTypes>
+      <Class Name="DG.Tweening.DOTweenModuleUI.Utils" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\QFramework\Framework\0.Core\Plugins\Demigiant\DOTween\Modules\DOTweenModuleUI.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>YAIQABAAAAgAgKAgAAAIAAQCLQEFAABAQAABBQAAAAg=</HashCode>
+      <FileName>Assets\QFramework\Framework\0.Core\Plugins\Demigiant\DOTween\Modules\DOTweenModuleUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DG.Tweening.DOTweenModuleUnityVersion" Collapsed="true">
+    <Position X="42.75" Y="3.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAAAAAAAAAAQAAAAAAQEAQAAACAAAAABA=</HashCode>
+      <FileName>Assets\QFramework\Framework\0.Core\Plugins\Demigiant\DOTween\Modules\DOTweenModuleUnityVersion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DG.Tweening.DOTweenCYInstruction" Collapsed="true">
+    <Position X="53.25" Y="2.5" Width="2.75" />
+    <NestedTypes>
+      <Class Name="DG.Tweening.DOTweenCYInstruction.WaitForCompletion" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\QFramework\Framework\0.Core\Plugins\Demigiant\DOTween\Modules\DOTweenModuleUnityVersion.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="DG.Tweening.DOTweenCYInstruction.WaitForRewind" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\QFramework\Framework\0.Core\Plugins\Demigiant\DOTween\Modules\DOTweenModuleUnityVersion.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="DG.Tweening.DOTweenCYInstruction.WaitForKill" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\QFramework\Framework\0.Core\Plugins\Demigiant\DOTween\Modules\DOTweenModuleUnityVersion.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="DG.Tweening.DOTweenCYInstruction.WaitForElapsedLoops" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\QFramework\Framework\0.Core\Plugins\Demigiant\DOTween\Modules\DOTweenModuleUnityVersion.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="DG.Tweening.DOTweenCYInstruction.WaitForPosition" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\QFramework\Framework\0.Core\Plugins\Demigiant\DOTween\Modules\DOTweenModuleUnityVersion.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="DG.Tweening.DOTweenCYInstruction.WaitForStart" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\QFramework\Framework\0.Core\Plugins\Demigiant\DOTween\Modules\DOTweenModuleUnityVersion.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\0.Core\Plugins\Demigiant\DOTween\Modules\DOTweenModuleUnityVersion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DG.Tweening.DOTweenModuleUtils" Collapsed="true">
+    <Position X="44.5" Y="3.5" Width="2.75" />
+    <NestedTypes>
+      <Class Name="DG.Tweening.DOTweenModuleUtils.Physics" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\QFramework\Framework\0.Core\Plugins\Demigiant\DOTween\Modules\DOTweenModuleUtils.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\0.Core\Plugins\Demigiant\DOTween\Modules\DOTweenModuleUtils.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnityEngine.ButtonAttribute" Collapsed="true">
+    <Position X="42.75" Y="1.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAQAAAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\3.EditorToolKit\Attribute\ButtonAttribute.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnityEngine.ButtonExAttribute" Collapsed="true">
+    <Position X="44.5" Y="1.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAQAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\3.EditorToolKit\Attribute\ButtonExAttribute.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnityEngine.ShowIfAndAttribute">
+    <Position X="10.5" Y="15.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\3.EditorToolKit\Attribute\ShowIfAndAttribute.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnityEngine.ShowIfAttribute">
+    <Position X="10.5" Y="12.5" Width="2.75" />
+    <NestedTypes>
+      <Enum Name="UnityEngine.ShowIfAttribute.Mode" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\QFramework\Framework\3.EditorToolKit\Attribute\ShowIfAttribute.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Class Name="UnityEngine.ShowIfAttribute.Target" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\QFramework\Framework\3.EditorToolKit\Attribute\ShowIfAttribute.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAABAAAAAAQA=</HashCode>
+      <FileName>Assets\QFramework\Framework\3.EditorToolKit\Attribute\ShowIfAttribute.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="QFramework.IActionListener" Collapsed="true">
+    <Position X="42.75" Y="12.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\0.Core\Plugins\FlexiSocket\IActionListener.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="QFramework.IFlexiSerializer&lt;T&gt;" Collapsed="true">
+    <Position X="51.5" Y="12.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACBAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\0.Core\Plugins\FlexiSocket\IFlexiSerializer.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="QFramework.IProtocol" Collapsed="true">
+    <Position X="60.25" Y="12.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAABAAAAAAAAAAAAAgAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\0.Core\Plugins\FlexiSocket\IProtocol.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="QFramework.ISocketClient" Collapsed="true">
+    <Position X="42.75" Y="13.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>EAREAAABAAAAQABAAEAAQIAACAgCAAACABAAAgCAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\0.Core\Plugins\FlexiSocket\ISocketClient.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="QFramework.ISocketClientToken" Collapsed="true">
+    <Position X="44.5" Y="13.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAEAAAAAAAAAAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\0.Core\Plugins\FlexiSocket\ISocketClientToken.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="QFramework.ISocketServer" Collapsed="true">
+    <Position X="46.25" Y="13.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>CQQIAAAAAAAAQGAAACAAAAAACAAAAAAABAAAIAiAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\0.Core\Plugins\FlexiSocket\ISocketServer.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="QFramework.IEnumeratorTask">
+    <Position X="7.5" Y="16.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\1.ResKit\1.ResSystem\IEnumeratorTask.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="QFramework.IEnumeratorTaskMgr" Collapsed="true">
+    <Position X="48" Y="12.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\1.ResKit\1.ResSystem\IEnumeratorTask.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="QFramework.IRes">
+    <Position X="7.5" Y="18.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>CBAggAAgAAAAAQAIAAgACAAAAAAAAAAAAAAgBACBABA=</HashCode>
+      <FileName>Assets\QFramework\Framework\1.ResKit\1.ResSystem\Res\IRes.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="QFramework.IDownloadTask" Collapsed="true">
+    <Position X="46.25" Y="12.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAAAAAQAAABAAAAAIACAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\1.ResKit\1.ResSystem\ResDownloader\ResDownloader.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="QFramework.IResLoader" Collapsed="true">
+    <Position X="62" Y="12.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAABAQAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\1.ResKit\1.ResSystem\ResLoader\IResLoader.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="QFramework.IResLoaderStrategy" Collapsed="true">
+    <Position X="63.75" Y="12.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAAAAAAAAADAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\1.ResKit\1.ResSystem\ResLoader\IResLoaderStrategy.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="QFramework.IPanelLoader" Collapsed="true">
+    <Position X="58.5" Y="12.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AIAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\2.UIKit\1.UI\Script\Res\IPanelLoader.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="QFramework.IMark" Collapsed="true">
+    <Position X="55" Y="12.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAAAAAAAAQAAgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\2.UIKit\1.UI\Script\System\IMark.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="QFramework.IPanel" Collapsed="true">
+    <Position X="56.75" Y="12.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAEAAAAAQAABAEAAAAAAACAACAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\2.UIKit\1.UI\Script\System\IPanel.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="QFramework.IUIData" Collapsed="true">
+    <Position X="49.75" Y="13.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\2.UIKit\1.UI\Script\System\UIPanel.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="QFramework.ITransition" Collapsed="true">
+    <Position X="48" Y="13.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\2.UIKit\1.UI\Script\Transition\ITransition.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="QFramework.IManager" Collapsed="true">
+    <Position X="53.25" Y="12.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAACACAAAEBAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\2.UIKit\2.ManagerOfManagers\IManager.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="BindingsRx.Converters.IConverter&lt;T1, T2&gt;" Collapsed="true">
+    <Position X="44.5" Y="12.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\0.Core\Plugins\BindingsRx\Converters\IConverter.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="BindingsRx.Filters.IFilter&lt;T&gt;" Collapsed="true">
+    <Position X="49.75" Y="12.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAIAABAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\0.Core\Plugins\BindingsRx\Filters\IFilter.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="QFramework.Example.PlayerEvent" Collapsed="true">
+    <Position X="55" Y="14.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Assets\QFramework\Example\UIKitExample\ManagerOfManagersExample\Player.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="QFramework.PCConnectMobileEvent" Collapsed="true">
+    <Position X="53.25" Y="14.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIEAAAAAAAAAAAAEEAAAAAEAAAACAAA=</HashCode>
+      <FileName>Assets\QFramework\Example\LibsExample\NetworkExample\PCConnectMobileManager.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="QFramework.UIEvent" Collapsed="true">
+    <Position X="63.75" Y="14.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Example\LibsExample\NetworkExample\UIMsg.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="QFramework.TestEvent" Collapsed="true">
+    <Position X="62" Y="14.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Example\UIKitExample\EventExample\EventGet.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="QFramework.FlexiSerializationLayout" Collapsed="true">
+    <Position X="46.25" Y="14.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAAAAAAAAAAAAAAAAABAIAAACAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\0.Core\Plugins\FlexiSocket\FlexiSerializationLayout.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="QFramework.FlexiSerializationOptions" Collapsed="true">
+    <Position X="48" Y="14.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAAAAAAAIAAAAAAAAAAAAAAAAAACgAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\0.Core\Plugins\FlexiSocket\FlexiSerializationOptions.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="QFramework.PTSimulateAction" Collapsed="true">
+    <Position X="56.75" Y="14.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAICAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\0.Core\Plugins\FlexiSocket\IActionListener.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="QFramework.MessageStructure" Collapsed="true">
+    <Position X="51.5" Y="14.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgEAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\0.Core\Plugins\FlexiSocket\MessageStructure.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="QFramework.InternalResNamePrefixType" Collapsed="true">
+    <Position X="49.75" Y="14.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAABAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\1.ResKit\1.ResSystem\Res\InternalRes.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="QFramework.ResState" Collapsed="true">
+    <Position X="58.5" Y="14.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEAAAAAAIAAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\1.ResKit\1.ResSystem\Res\IRes.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="QFramework.AudioEvent" Collapsed="true">
+    <Position X="42.75" Y="14.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAADAAABBEAAAAIAA2gAQAAABQAAIAgAAECQAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\1.ResKit\2.Audio\AudioManager.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="QFramework.VolumeLevel" Collapsed="true">
+    <Position X="46.25" Y="15.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAEAAAAAAAAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\1.ResKit\2.Audio\Msg\AudioMusicMsg.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="QFramework.UIMarkType" Collapsed="true">
+    <Position X="44.5" Y="15.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\2.UIKit\1.UI\Script\System\IMark.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="QFramework.UILevel" Collapsed="true">
+    <Position X="42.75" Y="15.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AABAAACAAAAAAAIQAAAiAAAAAAAAAAAAAABAAgABBAI=</HashCode>
+      <FileName>Assets\QFramework\Framework\2.UIKit\1.UI\Script\System\UIManager.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="BindingsRx.BindingTypes" Collapsed="true">
+    <Position X="44.5" Y="14.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAAAAIAAAAAAgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\0.Core\Plugins\BindingsRx\BindingTypes.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="UnityEngine.ShowIfRunTime" Collapsed="true">
+    <Position X="60.25" Y="14.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAIAAACAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\3.EditorToolKit\Attribute\ButtonExAttribute.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Delegate Name="QFramework.ClosedCallback" Collapsed="true">
+    <Position X="46.25" Y="16.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\0.Core\Plugins\FlexiSocket\SocketDelegate.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="QFramework.ConnectedCallback" Collapsed="true">
+    <Position X="48" Y="16.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\0.Core\Plugins\FlexiSocket\SocketDelegate.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="QFramework.ReceivedCallback" Collapsed="true">
+    <Position X="58.5" Y="16.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAAAAAAAAAACAACAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\0.Core\Plugins\FlexiSocket\SocketDelegate.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="QFramework.ReceivedStringCallback" Collapsed="true">
+    <Position X="62" Y="16.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAAAAAAAAAEAAACAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\0.Core\Plugins\FlexiSocket\SocketDelegate.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="QFramework.DisconnectedCallback" Collapsed="true">
+    <Position X="49.75" Y="16.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\0.Core\Plugins\FlexiSocket\SocketDelegate.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="QFramework.SentCallback" Collapsed="true">
+    <Position X="42.75" Y="17" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAAAAAAAAAAAAACAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\0.Core\Plugins\FlexiSocket\SocketDelegate.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="QFramework.ClientConnectedCallback" Collapsed="true">
+    <Position X="42.75" Y="16.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\0.Core\Plugins\FlexiSocket\SocketDelegate.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="QFramework.ReceivedFromClientCallback" Collapsed="true">
+    <Position X="60.25" Y="16.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAIAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\0.Core\Plugins\FlexiSocket\SocketDelegate.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="QFramework.ReceivedStringFromClientCallback" Collapsed="true">
+    <Position X="63.75" Y="16.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\0.Core\Plugins\FlexiSocket\SocketDelegate.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="QFramework.ClientDisconnectedCallback" Collapsed="true">
+    <Position X="44.5" Y="16.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\0.Core\Plugins\FlexiSocket\SocketDelegate.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="QFramework.SentToClientCallback" Collapsed="true">
+    <Position X="44.5" Y="17" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\0.Core\Plugins\FlexiSocket\SocketDelegate.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="QFramework.OnDownloadFinished" Collapsed="true">
+    <Position X="55" Y="16.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAACAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\1.ResKit\1.ResSystem\ResDownloader\HttpDownloaderMgr.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="QFramework.OnDownloadError" Collapsed="true">
+    <Position X="53.25" Y="16.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\1.ResKit\1.ResSystem\ResDownloader\HttpDownloaderMgr.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="QFramework.OnDownloadProgress" Collapsed="true">
+    <Position X="56.75" Y="16.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAACAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\1.ResKit\1.ResSystem\ResDownloader\HttpDownloaderMgr.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="QFramework.OnDownloadBegin" Collapsed="true">
+    <Position X="51.5" Y="16.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\QFramework\Framework\1.ResKit\1.ResSystem\ResDownloader\HttpDownloaderMgr.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
